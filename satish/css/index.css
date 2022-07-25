@@ -1,0 +1,13 @@
+.h1 {
+    height: 100vh;
+    background-image: url("../assets/images.jpg");
+    background-size: cover;
+}
+.h11 {
+ border-width: 5px;
+ border-style: solid;
+ border-color: blue;
+}
+.h2 {
+    height: 100vh;
+}
