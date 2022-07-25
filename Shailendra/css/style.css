@@ -1,0 +1,12 @@
+body{font-family: 'Roboto', sans-serif;}
+.car
+{
+    height: 100vh;
+    background-image: url(../assets/lion.jpg);
+    background-size: cover;
+
+}
+.info
+{height: 100vh;
+background-image: url(../assets/istockphoto-1262293120-612x612.jpg);
+background-size: cover;}
